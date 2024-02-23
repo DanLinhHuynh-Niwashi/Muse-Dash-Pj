@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1417dae5908b374459006fa6c5ca1cec, type: 3}
+  m_Name: 2KyofuuAllBack
+  m_EditorClassIdentifier: 
+  songSound: {fileID: 8300000, guid: 08dcddea6387f7f4bb1820cd030428b1, type: 3}
+  BPM: 135
+  length: 0
+  songName: Kyoufuu All-Back
+  songID: 2KAB
+  coverImg: {fileID: 21300000, guid: 72a7ceb6cc25a6b41a1893170f1f8f37, type: 3}
+  description: "Arranger: Yukopi\t\tComposer: Yukopi\tLyricist: Yukopi"
+  topNoteBeats:
+    Count: 0
+    s: []
+    e: []
+  botNoteBeats:
+    Count: 0
+    s: []
+    e: []

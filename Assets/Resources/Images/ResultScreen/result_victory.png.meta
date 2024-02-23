@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: b38be6e4c9c20f048b8ebd6f06d1e50a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: result_victory_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 925
+        width: 512
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24025dad13432914999ac491ecb18917
+      internalID: -1735155920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 172
+        height: 241
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b290388496f345bf4a3a02cfcf1f3
+      internalID: -1874507924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 553
+        width: 156
+        height: 235
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb614067ab3ff4a9af4393b7c31129
+      internalID: 70942132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 553
+        width: 136
+        height: 236
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db272b7f0489e54d91c12c58bf537a3
+      internalID: 806797773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 553
+        width: 135
+        height: 235
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf55569c98a2541ab2b5bddf1273bd
+      internalID: 1202816937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 230
+        height: 228
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3a8d2414bf34418d4a0d68ea1a96b
+      internalID: -2064498925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_58
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 322
+        width: 158
+        height: 227
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58d34bc20dad442a24a22ee9ca1776
+      internalID: -1943196797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 49
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934e36b98119ac49ab891e0c52356f8
+      internalID: 567733461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 48
+        height: 79
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fe7bfeaf5d62f4db12c3c574d14fa8
+      internalID: 1490554097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 239
+        width: 50
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0195bb1c163f49871f6d115fbf045
+      internalID: 1498220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 52
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc5c1d19dd4504a8bdc0723498c87a
+      internalID: -867668051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 51
+        height: 79
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98d7addb2fe514ca106bcd65d37be3
+      internalID: -1598946101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 239
+        width: 50
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f7b563d03728429fb992422eda658
+      internalID: -1676025415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_92
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 240
+        width: 42
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476026d57e691e409190bebdd5d5f53
+      internalID: 2102337593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_93
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 239
+        width: 51
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be444e8bbef6b4782c6dc4dae13fb5
+      internalID: -357923385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 50
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb7557601d1dc46bb3dd9c06016413
+      internalID: -1620898081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: result_victory_110
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 153
+        width: 38
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d892429f076d0048804197dd324772d
+      internalID: 904263999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      result_victory_0: 1461318242
+      result_victory_1: -1735155920
+      result_victory_10: -2144200141
+      result_victory_100: 1344898674
+      result_victory_101: -597217015
+      result_victory_102: 422073329
+      result_victory_103: -903580113
+      result_victory_104: 2099114307
+      result_victory_105: 454520999
+      result_victory_106: -1860923230
+      result_victory_107: -1752594452
+      result_victory_108: -1040088194
+      result_victory_109: -1620898081
+      result_victory_11: -995977434
+      result_victory_110: 904263999
+      result_victory_111: 726785747
+      result_victory_112: -975268985
+      result_victory_113: -1084246597
+      result_victory_114: 1833792087
+      result_victory_115: -111471784
+      result_victory_116: 1910189298
+      result_victory_117: 203273632
+      result_victory_118: -836116709
+      result_victory_119: 841580833
+      result_victory_12: -326312405
+      result_victory_120: -281045971
+      result_victory_121: -1080155086
+      result_victory_122: -35106788
+      result_victory_123: 105677192
+      result_victory_124: 1542726498
+      result_victory_125: -1547968561
+      result_victory_126: 1768552221
+      result_victory_127: 154431767
+      result_victory_128: 353131157
+      result_victory_129: 889076782
+      result_victory_13: 158279858
+      result_victory_130: -506562380
+      result_victory_131: -359821925
+      result_victory_132: -80131000
+      result_victory_133: 1906006594
+      result_victory_134: 2122900455
+      result_victory_135: 180767600
+      result_victory_136: -1793863863
+      result_victory_137: 310835499
+      result_victory_138: -519282503
+      result_victory_139: -904928005
+      result_victory_14: 1524741292
+      result_victory_15: 1227658716
+      result_victory_16: 1961061205
+      result_victory_17: -250119963
+      result_victory_18: 348955481
+      result_victory_19: -20645169
+      result_victory_2: -1866293692
+      result_victory_20: 1513997411
+      result_victory_21: 1904520153
+      result_victory_22: -1126432940
+      result_victory_23: 1856284151
+      result_victory_24: 158359894
+      result_victory_25: 368607316
+      result_victory_26: -1336666001
+      result_victory_27: -1874507924
+      result_victory_28: -466360316
+      result_victory_29: -1170311724
+      result_victory_3: -651673422
+      result_victory_30: 45576999
+      result_victory_31: -1047339587
+      result_victory_32: -888131888
+      result_victory_33: 70942132
+      result_victory_34: 806797773
+      result_victory_35: 1202816937
+      result_victory_36: -59191870
+      result_victory_37: 379324115
+      result_victory_38: -1886674759
+      result_victory_39: -39683132
+      result_victory_4: 1274025110
+      result_victory_40: -1342102017
+      result_victory_41: 460045604
+      result_victory_42: -480746746
+      result_victory_43: 1464740338
+      result_victory_44: -2075812309
+      result_victory_45: 1940588245
+      result_victory_46: 1003864518
+      result_victory_47: -88678429
+      result_victory_48: -2064498925
+      result_victory_49: 3496151
+      result_victory_5: 1697784504
+      result_victory_50: -1033107056
+      result_victory_51: -37968343
+      result_victory_52: -1706274871
+      result_victory_53: -953924559
+      result_victory_54: 2051444078
+      result_victory_55: -109902520
+      result_victory_56: 1126003841
+      result_victory_57: 584552747
+      result_victory_58: -1943196797
+      result_victory_59: -1445161965
+      result_victory_6: 412004406
+      result_victory_60: -1859639074
+      result_victory_61: -1185801093
+      result_victory_62: -1444196504
+      result_victory_63: -1567540100
+      result_victory_64: -13909456
+      result_victory_65: -1006527489
+      result_victory_66: 1421073927
+      result_victory_67: -1391031943
+      result_victory_68: -727672079
+      result_victory_69: -417728115
+      result_victory_7: 1800358372
+      result_victory_70: -1936050819
+      result_victory_71: -1598424977
+      result_victory_72: -1501170629
+      result_victory_73: 528562705
+      result_victory_74: 857534211
+      result_victory_75: -1017985659
+      result_victory_76: 2089532372
+      result_victory_77: -421222846
+      result_victory_78: -508007520
+      result_victory_79: -499656082
+      result_victory_8: -792924556
+      result_victory_80: -1034515620
+      result_victory_81: -593918348
+      result_victory_82: 900258744
+      result_victory_83: 1742944317
+      result_victory_84: -1163025505
+      result_victory_85: -1706829963
+      result_victory_86: 567733461
+      result_victory_87: 1490554097
+      result_victory_88: 1498220010
+      result_victory_89: -867668051
+      result_victory_9: 88860593
+      result_victory_90: -1598946101
+      result_victory_91: -1676025415
+      result_victory_92: 2102337593
+      result_victory_93: -357923385
+      result_victory_94: -25998076
+      result_victory_95: -1753627637
+      result_victory_96: 1523677536
+      result_victory_97: -65472886
+      result_victory_98: -1021632179
+      result_victory_99: 183515769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
